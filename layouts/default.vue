@@ -61,8 +61,8 @@
       </v-container>
     </v-main>
 
-    <v-footer :absolute="!fixed" app>
-      <span>&copy; {{ new Date().getFullYear() }}</span>
+    <v-footer :absolute="!fixed" app class="d-flex align-center">
+      <span>Copyright&copy; {{ new Date().getFullYear() }}. Leo Choi. All rights reserved. </span>
     </v-footer>
   </v-app>
 </template>
