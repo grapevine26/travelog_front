@@ -1,12 +1,14 @@
 <template>
-  <v-layout style="height: 100%;">
-    <v-card class="background_img index_img" color="rgb(255, 0, 0, 0.2)">
+  <v-container>
+    <v-layout style="height: 100%;">
+      <v-card class="background_img index_img" color="rgb(255, 0, 0, 0.2)">
 
-    </v-card>
-    <v-row justify="center" align="center">
+      </v-card>
+      <v-row justify="center" align="center">
 
-    </v-row>
-  </v-layout>
+      </v-row>
+    </v-layout>
+  </v-container>
 </template>
 
 <script>

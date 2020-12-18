@@ -116,7 +116,9 @@
   .fade-leave-active {
     opacity: 0;
   }
-
+  .container {
+    padding: 0;
+  }
   .link {
     text-decoration: none;
     color: inherit !important;
