@@ -2,7 +2,7 @@
 aa
 ## Build Setup
 
-```bash
+```bashsdf
 # install dependencies
 $ npm install
 
